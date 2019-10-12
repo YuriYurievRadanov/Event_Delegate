@@ -1,0 +1,11 @@
+D:\InterviewS\PREPARING\Event_Delegate\Event_Delegate\obj\Debug\netcoreapp2.0\Event_Delegate.csprojAssemblyReference.cache
+D:\InterviewS\PREPARING\Event_Delegate\Event_Delegate\obj\Debug\netcoreapp2.0\Event_Delegate.csproj.CoreCompileInputs.cache
+D:\InterviewS\PREPARING\Event_Delegate\Event_Delegate\obj\Debug\netcoreapp2.0\Event_Delegate.AssemblyInfoInputs.cache
+D:\InterviewS\PREPARING\Event_Delegate\Event_Delegate\obj\Debug\netcoreapp2.0\Event_Delegate.AssemblyInfo.cs
+D:\InterviewS\PREPARING\Event_Delegate\Event_Delegate\bin\Debug\netcoreapp2.0\Event_Delegate.deps.json
+D:\InterviewS\PREPARING\Event_Delegate\Event_Delegate\bin\Debug\netcoreapp2.0\Event_Delegate.runtimeconfig.json
+D:\InterviewS\PREPARING\Event_Delegate\Event_Delegate\bin\Debug\netcoreapp2.0\Event_Delegate.runtimeconfig.dev.json
+D:\InterviewS\PREPARING\Event_Delegate\Event_Delegate\bin\Debug\netcoreapp2.0\Event_Delegate.dll
+D:\InterviewS\PREPARING\Event_Delegate\Event_Delegate\bin\Debug\netcoreapp2.0\Event_Delegate.pdb
+D:\InterviewS\PREPARING\Event_Delegate\Event_Delegate\obj\Debug\netcoreapp2.0\Event_Delegate.dll
+D:\InterviewS\PREPARING\Event_Delegate\Event_Delegate\obj\Debug\netcoreapp2.0\Event_Delegate.pdb
